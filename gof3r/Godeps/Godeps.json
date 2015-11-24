@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/rlmcpherson/s3gof3r/gof3r",
+	"ImportPath": "github.com/eyethereal/s3gof3r/gof3r",
 	"GoVersion": "go1.3.3",
 	"Deps": [
 		{
